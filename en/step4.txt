@@ -1,7 +1,1 @@
-   15  git clone
-   19  git clone https://github.com/WadeTheDev/project_chad.git
-   20  cd project_chad\
-   21  ls
-   22  ls en/
-   23  ls fr
-   26  code -a .
+the push consists in depositing the version of its code on github. The push will take into account all the previous steps.
