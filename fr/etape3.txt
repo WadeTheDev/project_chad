@@ -5,4 +5,4 @@
 83  cd fr\                                                    
 84  touch etape3.txt                                          
 85  ls                                                        
-86  ..                                                        
+86  ..                                                        " AprŠs avoir clon‚ le projet et creer le fichier texte (git clone, touch step x), modifiez les fichiers apparus depuis l'editeur de texte, il faut enregistrer (ctrl/cmnd s) et envoyer le code mis … jour sur github (git add, git status, git commit -m "", puis finalement git push). Le code est envoy‚ et pret … ˆtre recup‚rer par vos collaborateurs."  

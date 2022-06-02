@@ -5,4 +5,4 @@
 83  cd fr\                                                    
 84  touch etape3.txt                                          
 85  ls                                                        
-86  ..                                                        
+86  ..                                                        " After cloning the project and creating the text file (git clone, touch step x), modify the files that appear from the text editor, save (ctrl/cmnd s) and send the updated code to github (git add, git status, git commit -m "", then finally git push). The code is sent and ready to be retrieved by your collaborators."  

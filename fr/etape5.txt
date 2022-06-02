@@ -8,4 +8,4 @@ Description Ã©tape pull
    33  cd ..
    34  code -a .
    35  git pull
-   36  git status
+   36  git status"le pull  Permet de t‚l‚charger les derniŠres modifications depuis un repository Github. Si par exemple nous travaillons … 2, et que mon bin“me a cod‚ et push son code, je dois le r‚cup‚rer en faisant **git pull**pour me mettre … jour   1. Cloner le repo   git status git clone https://github.com/WadeTheDev/project_chad.git  2. T‚l‚charger le projet git pull"  

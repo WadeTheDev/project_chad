@@ -8,4 +8,4 @@ Pull step
    33  cd ..
    34  code -a .
    35  git pull
-   36  git status
+   36  git status"Description of step 5 : pull  1. Clone the repo git status git clone https://github.com/WadeTheDev/project_chad.git  2. Pull the project git pull"  
