@@ -1,0 +1,8 @@
+79  git clone https://github.com/WadeTheDev/project_chad.git  
+80  cd project_chad\                                          
+81  cd en\                                                    
+82  touch step3.txt                                           
+83  cd fr\                                                    
+84  touch etape3.txt                                          
+85  ls                                                        
+86  ..                                                        
