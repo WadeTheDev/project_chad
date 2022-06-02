@@ -1,0 +1,11 @@
+Description étape pull
+
+ git clone https://github.com/WadeTheDev/project_chad.git
+   29  cd project_chad
+   30  cd fr
+   31  cd en
+   32  touch etape5.txt
+   33  cd ..
+   34  code -a .
+   35  git pull
+   36  git status
