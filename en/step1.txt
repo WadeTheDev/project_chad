@@ -19,4 +19,4 @@
   142  git add .
   143  git status
   144  git commit -m "fixed"
-  145  git push
+  145  git push"to create a repo we go directly to github, create a repo and clone it in the terminal"  

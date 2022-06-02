@@ -3,4 +3,4 @@
   175  cd fr
   176  touch etape2.txt
   177  ls
-  178  code -a .
+  178  code -a ."etape 2 (etape de clone) : R‚cup‚ration du lien HTTPS g‚n‚r‚ par le membre 1. Sur le cmd on rentre la commande "git clone (url)"."  
