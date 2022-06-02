@@ -1,0 +1,6 @@
+ 173  git clone https://github.com/WadeTheDev/project_chad.git
+  174  cd project_chad
+  175  cd fr
+  176  touch etape2.txt
+  177  ls
+  178  code -a .
